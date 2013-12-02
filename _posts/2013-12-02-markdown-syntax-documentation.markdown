@@ -2,10 +2,9 @@
 layout: post
 title:  "Markdown syntax"
 date:   2013-12-02 15:43:08
-categories: jekyll update
+categories: file update
 ---
 
-#markdown syntax#
 ##使用html区块##
     1. 前后加空行
     2. html区块markdown格式语法不会被处理
@@ -122,7 +121,7 @@ Use the ``printf(`)`` function.
 - --------------------------------------------------------------------------------------
 ## 图片
     像链接形式一样 ![Alt text](/path/to/img.jpg "Optional title")
-![ALT text](http://g.hiphotos.baidu.com/image/w%3D2048/sign=2eea3a0b64380cd7e61ea5ed957cac34/a6efce1b9d16fdfa31c50355b58f8c5495ee7be4.jpg "image title")
+![ALT text](/assets/luffy.jpg "luffy")
 
 ## 自动链接
     <http://google.com>

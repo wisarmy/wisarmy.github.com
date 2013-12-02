@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Markdown syntax"
+date:   2013-12-02 15:43:08
+categories: jekyll update
+---
 ﻿#markdown syntax#
 ##使用html区块##
     1. 前后加空行

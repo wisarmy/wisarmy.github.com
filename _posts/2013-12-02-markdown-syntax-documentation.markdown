@@ -4,7 +4,7 @@ title:  "Markdown syntax"
 date:   2013-12-02 15:43:08
 categories: jekyll update
 ---
-﻿#markdown syntax#
+#markdown syntax#
 ##使用html区块##
     1. 前后加空行
     2. html区块markdown格式语法不会被处理

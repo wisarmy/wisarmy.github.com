@@ -1,9 +1,8 @@
-----
--layout: post
--title:  "名词缩写解析"
--date:   2014年1月7日22:44:30
--categories: Reference
-----
--测试gist
--{% gist 6289895 RCDropdown.m %}
--{% gist 8300171 缩写名词解析 %}
+---
+layout: post
+title:  "名词缩写解析"
+date:   2013-12-02 15:43:08
+categories: Reference
+---
+
+{% gist 8300171 缩写名词解析 %}
